@@ -1,4 +1,4 @@
-## Indonesian Earthquake
+# Indonesian Earthquake
 
 Earthquakes are natural phenomena that have significant impacts on human societies and the environment. Understanding the patterns and characteristics of earthquake occurrences is crucial for disaster preparedness, risk mitigation, and the development of resilient communities. In this project, we explore earthquake data sourced from the Earthquake Repository managed by BMKG (Indonesian Meteorology, Climatology, and Geophysical Agency), an authoritative organization responsible for monitoring seismic activities in Indonesia.
 
@@ -13,14 +13,14 @@ In this project, our objective is to analyze and explore the earthquake data to 
 
 By addressing these questions, we aim to contribute to the understanding of seismic activities, enhance disaster preparedness efforts, and support decision-making processes for mitigating earthquake risks in Indonesia and beyond.
 
-# Objective
+## Objective
 
 1. Analyze the temporal variation of earthquake occurrences based on date, month, and year to identify trends and patterns in seismic activity over time.
 2. Investigate the correlation between the depth of earthquakes and the magnitude of earthquakes to determine if there is a relationship between these two factors.
 3. Assess the influence of geographical locations on the depth and magnitude of earthquakes to understand how different regions are affected by seismic events.
 4. Identify seasonal patterns or trends in earthquake magnitudes over time to determine if there are recurring patterns in seismic activity related to specific seasons or periods.
 
-# Data
+## Data
 
 This dataset is obtained from the Earthquake Repository managed by BMKG (the Indonesian Meteorology, Climatology, and Geophysical Agency), a non-departmental government agency. BMKG underwent a redesign of their website in early 2023, resulting in the creation of two distinct datasets.
 
